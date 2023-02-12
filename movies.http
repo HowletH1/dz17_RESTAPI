@@ -28,7 +28,7 @@ Accept: application/json
 Content-Type: application/json
 
 {
-  "title": "GOVNO",
+  "title": "title",
   "description": "description",
   "trailer": "trailer",
   "year": 1222,
